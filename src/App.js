@@ -1,5 +1,5 @@
 import React from 'react';
-import './app.css'
+import './App.css'
 import Content from "./Content";
 import Space from "./Space";
 import Converter from "./Converter";
