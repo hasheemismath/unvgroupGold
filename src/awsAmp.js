@@ -12,7 +12,7 @@ export default function amp(props) {
         <div>
             <input type="number" className="input" value={amount} onChange={onChangeAmount} />
             <select value={selectedCurrency} onChange={onChangeCurrency}>
-                {currencyOptions.map(option => (
+                { amount && currencyOptions.map(option => (
                     <option key={option} value={option}>{option}</option>
                 ))}
             </select>
