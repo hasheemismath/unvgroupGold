@@ -22,6 +22,7 @@ function App() {
     }
 
     useEffect(() => {
+        //calling endPoints
         fetch(BASE_URL)
             .then(res => res.json())
             .then(data => {
