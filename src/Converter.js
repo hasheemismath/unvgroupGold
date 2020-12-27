@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import CurrencyRow from './CurrencyRow'
 
 const BASE_URL = 'https://api.exchangeratesapi.io/latest'
+console.log(BASE_URL)
 
 function App() {
     const [currencyOptions, setCurrencyOptions] = useState([])

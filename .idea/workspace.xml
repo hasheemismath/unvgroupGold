@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c51023d-5b4c-42fc-8d49-d96025001f9f" name="Default Changelist" comment="" />
+    <list default="true" id="8c51023d-5b4c-42fc-8d49-d96025001f9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +62,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Hhash\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8c51023d-5b4c-42fc-8d49-d96025001f9f" name="Default Changelist" comment="" />
@@ -81,6 +86,8 @@
       <workItem from="1601525409755" duration="1220000" />
       <workItem from="1601546879036" duration="17000" />
       <workItem from="1608480862071" duration="246000" />
+      <workItem from="1608555852050" duration="2687000" />
+      <workItem from="1609061880420" duration="6000" />
     </task>
     <servers />
   </component>
@@ -98,23 +105,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="427" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600935647524">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="427" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600935647524" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1600937014340">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600937014340" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601126883137">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601126883137" />
-    <state x="134" y="105" width="998" height="558" key="dock-window-1" timestamp="1601223363909">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="134" y="105" width="998" height="558" key="dock-window-1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601223363909" />
   </component>
 </project>
